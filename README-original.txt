@@ -1,18 +1,3 @@
-This repo is a mirror of the Joty et al (2015) CODRA RST discourse parser
-(original URL: http://alt.qcri.org/tools/discourse-parser/).
-
-If you are looking for a *simple* way to install and run CODRA,
-please have a look at my other repo https://github.com/NLPbox/codra-docker .
-
-If you are interested in seeing graphical output of your parse trees,
-need to convert between different RST file formats
-and/or would like to use other RST parsers as well, check out
-https://github.com/arne-cl/rst-workbench for an overview.
-
-
-Original README below:
-------------------------
-
 Author: Shafiq Joty [sjoty@qf.org.qa]
 
 
