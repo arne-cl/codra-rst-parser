@@ -10,7 +10,7 @@ which offers a REST API for the parser.
 If you are interested in seeing graphical output of your parse trees,
 need to convert between different RST file formats
 and/or would like to use other RST parsers as well, check out
-[arne-cl/rst-workbench](https://github.com/arne-cl/rst-workbench for an overview).
+[arne-cl/rst-workbench](https://github.com/arne-cl/rst-workbench) for an overview.
 
 The original CODRA source code is still available on [Shafiq Joty's old website](http://alt.qcri.org/tools/discourse-parser/),
 but I needed to make some changes to get the parser running.
